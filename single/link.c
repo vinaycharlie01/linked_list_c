@@ -109,5 +109,6 @@ delectfromend();
 delectatany(3);
 display();
 printf("Hello, world!");
+printf("Hello, world!");
     
 }
