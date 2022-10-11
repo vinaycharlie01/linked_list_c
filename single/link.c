@@ -108,5 +108,6 @@ delectfrombig();
 delectfromend();
 delectatany(3);
 display();
+printf("Hello, world!");
     
 }
